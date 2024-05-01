@@ -33,7 +33,7 @@ The primary goal of this project is to develop and evaluate three distinct AI ag
 3. **Sparse Sampling (Tree Search)** 🌳
 
 Explore how these AI agents perform in terms of learning speed, efficiency, and adaptability across different game scenarios. 📊
-
+<a name="project-overview"></a>
 ---
 
 ## Repository Structure 📂
@@ -45,7 +45,7 @@ The repository contains the following key files and components:
 - `monteclaro.py`: Implementation of the Rollout Policy Adaptation (Monte Carlo) algorithm.
 - `sparsesampling.py`: Implementation of the Sparse Sampling (Tree Search) algorithm.
 - `Tic Tac Toe.pdf`: PowerPoint presentation providing an overview of the project. 📄
-
+<a name="repository-structure"></a>
 ---
 
 ## Algorithms and Techniques 🧩
@@ -67,7 +67,7 @@ The repository contains the following key files and components:
 - **Description**: Efficiently explores the search space by selectively evaluating potential moves, ideal for games with large state spaces.
 - **Key Concepts**: Tree Search, Exploration vs. Exploitation.
 - **YouTube Link**: Learn more about Sparse Sampling (Tree Search) and its application in Tic-Tac-Toe: [Sparse Sampling (Tree Search) Algorithm Demo](https://www.youtube.com/watch?v=0Ey02HT_1Ho) 🎥
-
+<a name="algorithms-and-techniques"></a>
 ---
 
 ## Evaluation Criteria 📊

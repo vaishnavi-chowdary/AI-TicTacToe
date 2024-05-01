@@ -44,7 +44,7 @@ The repository contains the following key files and components:
 - `temporallearning.py`: Implementation of the Temporal Difference Learning algorithm.
 - `monteclaro.py`: Implementation of the Rollout Policy Adaptation (Monte Carlo) algorithm.
 - `sparsesampling.py`: Implementation of the Sparse Sampling (Tree Search) algorithm.
-- `Tic Tac Toe.pdf`: PowerPoint presentation providing an overview of the project. 📄
+- `Tic Tac Toe.ppt`: PowerPoint presentation providing an overview of the project. 📄
 <a name="algorithms-and-techniques"></a>
 ---
 
@@ -147,16 +147,19 @@ The AI agents were evaluated based on several key metrics to assess their perfor
 #### Tic Tac Toe Board
 
 ![Board](https://i.ibb.co/wpWSYPd/board.jpg)
+
 *Figure 1: Tic Tac Toe.*
 
 #### Win Rate Comparison
 
 ![Efficiency Comparison](https://i.ibb.co/KKx5RLv/individual-graph.jpg)
+
 *Figure 2: Comparison of efficiency over number of game plays among indvidual AI algorithms.*
 
 #### Combined Performance Metrics
 
 ![Combined Metrics](https://i.ibb.co/d0q86kd/combined-graph.jpg)
+
 *Figure 3: Combined performance metrics of AI agents.*
 <a name="youtube-links-for-algorithm-demonstrations"></a>
 
@@ -173,7 +176,7 @@ For a more interactive understanding, check out this YouTube link demonstrating 
 
 ## Contribution 🤝
 
-This project was created by [Vaishnavi Kommi](https://github.com/vaishnavi-chowdary) and [Ganesh Kaja](https://github.com/Kajaganesh). Contributions to this project are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+This project's contribution involves the combined efforts of [Vaishnavi Kommi](https://github.com/vaishnavi-chowdary) and [Ganesh Kaja](https://github.com/Kajaganesh). Contributions to this project are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
 ---
 Copyright © 2024 Vaishnavi Chowdary Kommi

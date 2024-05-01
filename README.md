@@ -1,7 +1,4 @@
-Certainly! Here's the complete README.md file with the ending section including the copyright notice.
-
-```markdown
-# AI Tic-Tac-Toe Algorithm Exploration 🤖🎮
+AI Tic-Tac-Toe Algorithm Exploration 🤖🎮
 
 Welcome to the AI Tic-Tac-Toe Algorithm repository! This project explores the implementation and comparison of various AI algorithms for the classic game of Tic-Tac-Toe. Dive into different strategic approaches and witness their performance in gameplay scenarios. 🚀🔍
 
@@ -9,21 +6,21 @@ Welcome to the AI Tic-Tac-Toe Algorithm repository! This project explores the im
 
 ## Table of Contents
 
-- [Project Overview](#project-overview)
-- [Repository Structure](#repository-structure)
-- [Algorithms and Techniques](#algorithms-and-techniques)
-  - [Temporal Difference Learning](#temporal-difference-learning)
-  - [Rollout Policy Adaptation (Monte Carlo)](#rollout-policy-adaptation-monte-carlo)
-  - [Sparse Sampling (Tree Search)](#sparse-sampling-tree-search)
-- [Evaluation Criteria](#evaluation-criteria)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-  - [Running the Main Script](#running-the-main-script)
-  - [Running Individual Algorithm Scripts](#running-individual-algorithm-scripts)
-- [Results and Visualizations](#results-and-visualizations)
-- [YouTube Links for Algorithm Demonstrations](#youtube-links-for-algorithm-demonstrations)
-- [Contributing](#contributing)
-- [License](#license)
+- Project Overview
+- Repository Structure
+- Algorithms and Techniques
+  - Temporal Difference Learning
+  - Rollout Policy Adaptation (Monte Carlo)
+  - Sparse Sampling (Tree Search)
+- Evaluation Criteria
+- Getting Started
+- Usage
+  - Running the Main Script
+  - Running Individual Algorithm Scripts
+- Results and Visualizations
+- YouTube Links for Algorithm Demonstrations
+- Contributing
+- License
 
 ---
 
@@ -31,9 +28,9 @@ Welcome to the AI Tic-Tac-Toe Algorithm repository! This project explores the im
 
 The primary goal of this project is to develop and evaluate three distinct AI agents for playing Tic-Tac-Toe, each employing a unique algorithmic strategy. The agents use the following techniques:
 
-1. **Temporal Difference Learning** 🧠
-2. **Rollout Policy Adaptation (Monte Carlo)** 🎲
-3. **Sparse Sampling (Tree Search)** 🌳
+1. Temporal Difference Learning 🧠
+2. Rollout Policy Adaptation (Monte Carlo) 🎲
+3. Sparse Sampling (Tree Search) 🌳
 
 Explore how these AI agents perform in terms of learning speed, efficiency, and adaptability across different game scenarios. 📊
 
@@ -55,21 +52,21 @@ The repository contains the following key files and components:
 
 ### Temporal Difference Learning
 
-- **Description**: Utilizes reinforcement learning principles to make optimal moves by updating value estimates based on immediate and future rewards.
-- **Key Concepts**: Reinforcement Learning, Q-Learning.
-- **YouTube Link**: Watch a detailed demonstration of the Temporal Difference Learning algorithm in action: [Temporal Difference Learning Algorithm](https://www.youtube.com/watch?v=L64E_NTZJ_0) 📺
+- Description: Utilizes reinforcement learning principles to make optimal moves by updating value estimates based on immediate and future rewards.
+- Key Concepts: Reinforcement Learning, Q-Learning.
+- YouTube Link: [Temporal Difference Learning Algorithm](https://www.youtube.com/watch?v=L64E_NTZJ_0) 📺
 
 ### Rollout Policy Adaptation (Monte Carlo)
 
-- **Description**: Employs random simulations (rollouts) to approximate the value of actions, aiding in decision-making for optimal moves.
-- **Key Concepts**: Monte Carlo Simulations, Rollout Policy Adaptation.
-- **YouTube Link**: Explore how the Rollout Policy Adaptation algorithm works through this interactive demonstration: [Rollout Policy Adaptation (Monte Carlo) Algorithm Demo](https://www.youtube.com/watch?v=PsxnVsCplYc) 📹
+- Description: Employs random simulations (rollouts) to approximate the value of actions, aiding in decision-making for optimal moves.
+- Key Concepts: Monte Carlo Simulations, Rollout Policy Adaptation.
+- YouTube Link: [Rollout Policy Adaptation (Monte Carlo) Algorithm Demo](https://www.youtube.com/watch?v=PsxnVsCplYc) 📹
 
 ### Sparse Sampling (Tree Search)
 
-- **Description**: Efficiently explores the search space by selectively evaluating potential moves, ideal for games with large state spaces.
-- **Key Concepts**: Tree Search, Exploration vs. Exploitation.
-- **YouTube Link**: Learn more about Sparse Sampling (Tree Search) and its application in Tic-Tac-Toe: [Sparse Sampling (Tree Search) Algorithm Demo](https://www.youtube.com/watch?v=0Ey02HT_1Ho) 🎥
+- Description: Efficiently explores the search space by selectively evaluating potential moves, ideal for games with large state spaces.
+- Key Concepts: Tree Search, Exploration vs. Exploitation.
+- YouTube Link: [Sparse Sampling (Tree Search) Algorithm Demo](https://www.youtube.com/watch?v=0Ey02HT_1Ho) 🎥
 
 ---
 
@@ -91,17 +88,16 @@ The project evaluates AI agent performance using the following criteria:
 
 To explore and run the AI Tic-Tac-Toe algorithms locally, follow these steps:
 
-1. **Clone the repository**:
+1. Clone the repository:
    ```bash
    git clone https://github.com/vaishnavi-chowdary/AI-TicTacToe.git
-   ```
-
-2. **Install dependencies**:
+    ```
+   
+2. Install dependencies:
    ```bash
    pip install matplotlib pygame
-   ```
-
----
+    ```
+   ---
 
 ## Usage ℹ️
 
@@ -147,17 +143,20 @@ Visualizations were generated to illustrate the performance of AI agents across 
 
 #### Tic Tac Toe Board
 
-![Board](https://i.ibb.co/wpWSYPd/board.jpg)
+![Board]
+(https://i.ibb.co/wpWSYPd/board.jpg)
 *Figure 1: Tic Tac Toe.*
 
 #### Win Rate Comparison
 
-![Efficiency Comparison](https://i.ibb.co/KKx5RLv/individual-graph.jpg)
+![Efficiency Comparison]
+(https://i.ibb.co/KKx5RLv/individual-graph.jpg)
 *Figure 2: Comparison of efficiency over number of game plays among indvidual AI algorithms.*
 
 #### Combined Performance Metrics
 
-![Combined Metrics](https://i.ibb.co/d0q86kd/combined-graph.jpg)
+![Combined Metrics]
+(https://i.ibb.co/d0q86kd/combined-graph.jpg)
 *Figure 3: Combined performance metrics of AI agents.*
 
 ---
@@ -166,7 +165,7 @@ Visualizations were generated to illustrate the performance of AI agents across 
 
 For a more interactive understanding, check out this YouTube link demonstrating the gameplay and decision-making process of each AI algorithms:
 
- [AI Tic Tac Toe Algorithm Demo](https://www.youtube.com/watch?v=1EEoXy5rEIY)
+[AI Tic Tac Toe Algorithm Demo](https://www.youtube.com/watch?v=1EEoXy5rEIY)
   
 ---
 

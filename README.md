@@ -20,9 +20,9 @@ Welcome to the AI Tic-Tac-Toe Algorithm repository! This project explores the im
 - [Results and Visualizations](#results-and-visualizations)
 - [YouTube Links for Algorithm Demonstrations](#youtube-links-for-algorithm-demonstrations)
 - [Contribution](#contribution)
-
----
 <a name="project-overview"></a>
+---
+
 ## Project Overview 🌟
 
 The primary goal of this project is to develop and evaluate three distinct AI agents for playing Tic-Tac-Toe, each employing a unique algorithmic strategy. The agents use the following techniques:
@@ -33,8 +33,9 @@ The primary goal of this project is to develop and evaluate three distinct AI ag
 
 Explore how these AI agents perform in terms of learning speed, efficiency, and adaptability across different game scenarios. 📊
 
----
 <a name="repository-structure"></a>
+---
+
 ## Repository Structure 📂
 
 The repository contains the following key files and components:
@@ -44,17 +45,17 @@ The repository contains the following key files and components:
 - `monteclaro.py`: Implementation of the Rollout Policy Adaptation (Monte Carlo) algorithm.
 - `sparsesampling.py`: Implementation of the Sparse Sampling (Tree Search) algorithm.
 - `Tic Tac Toe.pdf`: PowerPoint presentation providing an overview of the project. 📄
-
----
 <a name="algorithms-and-techniques"></a>
-## Algorithms and Techniques 🧩
+---
 <a name="temporal-difference-learning"></a>
-### Temporal Difference Learning
+## Algorithms and Techniques 🧩
 
+### Temporal Difference Learning
+<a name="rollout-policy-adaptation-monte-carlo"></a>
 - **Description**: Utilizes reinforcement learning principles to make optimal moves by updating value estimates based on immediate and future rewards.
 - **Key Concepts**: Reinforcement Learning, Q-Learning.
 - **YouTube Link**: Watch a detailed demonstration of the Temporal Difference Learning algorithm in action: [Temporal Difference Learning Algorithm](https://www.youtube.com/watch?v=L64E_NTZJ_0) 📺
-<a name="rollout-policy-adaptation-monte-carlo"></a>
+
 ### Rollout Policy Adaptation (Monte Carlo)
 
 - **Description**: Employs random simulations (rollouts) to approximate the value of actions, aiding in decision-making for optimal moves.

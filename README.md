@@ -99,6 +99,7 @@ To explore and run the AI Tic-Tac-Toe algorithms locally, follow these steps:
    ```
 <a name="usage"></a>
 
+
    ---
 
 ## Usage ℹ️
@@ -123,6 +124,7 @@ python monteclaro.py
 python sparsesampling.py
 ```
 <a name="results-and-visualizations"></a>
+
 
 ---
 
@@ -171,7 +173,7 @@ For a more interactive understanding, check out this YouTube link demonstrating 
 
 ## Contribution 🤝
 
-This project was created by @vaishnavi-chowdary and @Kajaganesh. Contributions to this project are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+This project was created by [Vaishnavi Kommi](https://github.com/vaishnavi-chowdary) and [Ganesh Kaja](https://github.com/Kajaganesh). Contributions to this project are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
 ---
 Copyright © 2024 Vaishnavi Chowdary Kommi

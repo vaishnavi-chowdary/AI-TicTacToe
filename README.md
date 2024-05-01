@@ -22,9 +22,9 @@ Welcome to the AI Tic-Tac-Toe Algorithm repository! This project explores the im
 - [Contribution](#contribution)
 
 ---
-
-## Project Overview 🌟
 <a name="project-overview"></a>
+## Project Overview 🌟
+
 The primary goal of this project is to develop and evaluate three distinct AI agents for playing Tic-Tac-Toe, each employing a unique algorithmic strategy. The agents use the following techniques:
 
 1. **Temporal Difference Learning** 🧠
@@ -34,9 +34,9 @@ The primary goal of this project is to develop and evaluate three distinct AI ag
 Explore how these AI agents perform in terms of learning speed, efficiency, and adaptability across different game scenarios. 📊
 
 ---
-
-## Repository Structure 📂
 <a name="repository-structure"></a>
+## Repository Structure 📂
+
 The repository contains the following key files and components:
 
 - `main.py`: Main entry point for executing and comparing the AI algorithms.
@@ -46,31 +46,31 @@ The repository contains the following key files and components:
 - `Tic Tac Toe.pdf`: PowerPoint presentation providing an overview of the project. 📄
 
 ---
-
-## Algorithms and Techniques 🧩
 <a name="algorithms-and-techniques"></a>
-### Temporal Difference Learning
+## Algorithms and Techniques 🧩
 <a name="temporal-difference-learning"></a>
+### Temporal Difference Learning
+
 - **Description**: Utilizes reinforcement learning principles to make optimal moves by updating value estimates based on immediate and future rewards.
 - **Key Concepts**: Reinforcement Learning, Q-Learning.
 - **YouTube Link**: Watch a detailed demonstration of the Temporal Difference Learning algorithm in action: [Temporal Difference Learning Algorithm](https://www.youtube.com/watch?v=L64E_NTZJ_0) 📺
-
-### Rollout Policy Adaptation (Monte Carlo)
 <a name="rollout-policy-adaptation-monte-carlo"></a>
+### Rollout Policy Adaptation (Monte Carlo)
+
 - **Description**: Employs random simulations (rollouts) to approximate the value of actions, aiding in decision-making for optimal moves.
 - **Key Concepts**: Monte Carlo Simulations, Rollout Policy Adaptation.
 - **YouTube Link**: Explore how the Rollout Policy Adaptation algorithm works through this interactive demonstration: [Rollout Policy Adaptation (Monte Carlo) Algorithm Demo](https://www.youtube.com/watch?v=PsxnVsCplYc) 📹
-
-### Sparse Sampling (Tree Search)
 <a name="sparse-sampling-tree-search"></a>
+### Sparse Sampling (Tree Search)
+
 - **Description**: Efficiently explores the search space by selectively evaluating potential moves, ideal for games with large state spaces.
 - **Key Concepts**: Tree Search, Exploration vs. Exploitation.
 - **YouTube Link**: Learn more about Sparse Sampling (Tree Search) and its application in Tic-Tac-Toe: [Sparse Sampling (Tree Search) Algorithm Demo](https://www.youtube.com/watch?v=0Ey02HT_1Ho) 🎥
 
 ---
-
-## Evaluation Criteria 📊
 <a name="evaluation-criteria"></a>
+## Evaluation Criteria 📊
+
 The project evaluates AI agent performance using the following criteria:
 
 - No. of Episodes
@@ -82,9 +82,9 @@ The project evaluates AI agent performance using the following criteria:
 - Efficiency
 
 ---
-
-## Getting Started 🚀
 <a name="getting-started"></a>
+## Getting Started 🚀
+
 To explore and run the AI Tic-Tac-Toe algorithms locally, follow these steps:
 
 1. Clone the repository:
@@ -97,11 +97,11 @@ To explore and run the AI Tic-Tac-Toe algorithms locally, follow these steps:
    pip install matplotlib pygame
     ```
    ---
-
-## Usage ℹ️
 <a name="usage"></a>
-### Running the Main Script
+## Usage ℹ️
 <a name="running-the-main-script"></a>
+### Running the Main Script
+
 To execute and compare the different AI algorithms across multiple Tic-Tac-Toe games, run the `main.py` script:
 
 ```bash
@@ -109,9 +109,9 @@ python main.py
 ```
 
 This script orchestrates the execution of algorithms, displays game outcomes, evaluation metrics, and generates visualizations for performance comparison.
-
-### Running Individual Algorithm Scripts
 <a name="running-individual-algorithm-scripts"></a>
+### Running Individual Algorithm Scripts
+
 Alternatively, run individual algorithm scripts to observe their behavior independently:
 
 ```bash
@@ -121,9 +121,9 @@ python sparsesampling.py
 ```
 
 ---
-
-## Results and Visualizations 📊📈
 <a name="results-and-visualizations"></a>
+## Results and Visualizations 📊📈
+
 ### Evaluation Metrics
 
 The AI agents were evaluated based on several key metrics to assess their performance in playing Tic-Tac-Toe:
@@ -154,17 +154,17 @@ The AI agents were evaluated based on several key metrics to assess their perfor
 *Figure 3: Combined performance metrics of AI agents.*
 
 ---
-
-## YouTube Link for Algorithm Demonstration 📹
 <a name="youtube-links-for-algorithm-demonstrations"></a>
+## YouTube Link for Algorithm Demonstration 📹
+
 For a more interactive understanding, check out this YouTube link demonstrating the gameplay and decision-making process of each AI algorithms:
 
 [AI Tic Tac Toe Algorithm Demo](https://www.youtube.com/watch?v=1EEoXy5rEIY)
   
 ---
-
-## Contribution 🤝
 <a name="contribution"></a>
+## Contribution 🤝
+
 This project was created by @vaishnavi-chowdary and @Kajaganesh. Contributions to this project are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
 ---

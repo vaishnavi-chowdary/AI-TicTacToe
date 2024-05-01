@@ -169,7 +169,7 @@ The AI agents were evaluated based on several key metrics to assess their perfor
 
 For a more interactive understanding, check out this YouTube link demonstrating the gameplay and decision-making process of each AI algorithms:
 
-[AI Tic Tac Toe Algorithm Demo](https://www.youtube.com/watch?v=1EEoXy5rEIY)
+[AI Tic Tac Toe Algorithm](https://www.youtube.com/watch?v=1EEoXy5rEIY)
  <a name="contribution"></a>
  
 ---
